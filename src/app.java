@@ -12,9 +12,9 @@ public class app {
     public static void main(String[] args) {
 
         //登陆界面
-        new GameJFrame();
+//        new GameJFrame();
 
-//        new LogininJFrame();
+        new LogininJFrame();
 
 //        new RegisterJFrame();
     }

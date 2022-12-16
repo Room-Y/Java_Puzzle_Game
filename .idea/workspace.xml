@@ -1,20 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Java_Puzzle_Game:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a6237935-5f4d-4275-b7f5-137844e67b7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cmr/ui/GameJFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cmr/ui/LogininJFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cmr/ui/RegisterJFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyJFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyJFrame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyJFrame3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestMyJFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestMyJFrame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestMyJFrame3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Puzzle_Game_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/loginPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/loginReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/passwordPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/registerPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/registerReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/username.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/login/verification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/steal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy1/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy10/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy11/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy12/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy13/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy14/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy15/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy16/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy17/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy18/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy19/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy2/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy20/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy3/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy4/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy5/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy6/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy7/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy8/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sy/sy9/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmrUtil/CodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domian/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmr/ui/GameJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmr/ui/GameJFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmr/ui/LogininJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmr/ui/LogininJFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +413,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/Java_Puzzle_Game&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/Java_Puzzle_Game/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Java_Puzzle_Game\image" />
+      <recent name="D:\Java\Java_Puzzle_Game\image\sy" />
+      <recent name="D:\Java\Java_Puzzle_Game\image\login" />
       <recent name="D:\Java\Java_Puzzle_Game" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -60,19 +439,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.app">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1" />
-      <module name="Java_Puzzle_Game" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestMyJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.TestMyJFrame" />
       <module name="Java_Puzzle_Game" />
@@ -119,13 +485,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wyy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.wyy" />
+      <module name="Java_Puzzle_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.app" />
+        <item itemvalue="Application.wyy" />
         <item itemvalue="Application.TestMyJFrame3" />
         <item itemvalue="Application.TestMyJFrame2" />
         <item itemvalue="Application.TestMyJFrame" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +518,11 @@
       <updated>1670609708892</updated>
       <workItem from="1670609710712" duration="2377000" />
       <workItem from="1670848176129" duration="2840000" />
-      <workItem from="1670919359878" duration="5963000" />
+      <workItem from="1670919359878" duration="10478000" />
+      <workItem from="1671017403406" duration="6544000" />
+      <workItem from="1671095915125" duration="10821000" />
+      <workItem from="1671172534050" duration="3124000" />
+      <workItem from="1671176444085" duration="3173000" />
     </task>
     <servers />
   </component>
